@@ -1,4 +1,4 @@
-# Bayesian Linear Regression
+# Probabilistic Machine Learning Playground
 
-A repository to toy around with Edward and learn how to use it by making a bayesian linear regression model.
+A repository to toy around with Edward to use Bayesian models for Machine Learning.
 
